@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab 1.2 BMI</string>
+    <string name="input_weight">Weight (kg)</string>
+    <string name="input_height">Height (cm)</string>
+    <string name="bmi">BMI</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="normal">Normal</string>
+    <string name="over_weight">Over weight</string>
+    <string name="under_weight">Under weight</string>
+</resources>
